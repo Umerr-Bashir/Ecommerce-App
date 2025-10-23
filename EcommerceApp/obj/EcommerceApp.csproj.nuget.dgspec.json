@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nhs78\\Documents\\GitHub\\Ecommerce App\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj": {}
+    "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\EcommerceApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nhs78\\Documents\\GitHub\\Ecommerce App\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj": {
+    "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\EcommerceApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nhs78\\Documents\\GitHub\\Ecommerce App\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj",
+        "projectUniqueName": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\EcommerceApp.csproj",
         "projectName": "EcommerceApp",
-        "projectPath": "C:\\Users\\nhs78\\Documents\\GitHub\\Ecommerce App\\EcommerceApp\\EcommerceApp\\EcommerceApp.csproj",
-        "packagesPath": "C:\\Users\\nhs78\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nhs78\\Documents\\GitHub\\Ecommerce App\\EcommerceApp\\EcommerceApp\\obj\\",
+        "projectPath": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\EcommerceApp.csproj",
+        "packagesPath": "C:\\Users\\AHMI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nhs78\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AHMI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net8.0": {
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
