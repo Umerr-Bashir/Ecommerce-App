@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\models\\reveiw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\reveiw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\dtos\\confirmationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\dtos\\confirmationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\dtos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|c:\\users\\ahmi\\documents\\github\\ecommerce-app\\ecommerceapp\\ecommerceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{330BD46B-AEFD-49CE-9F8F-FA27CD5DE498}|EcommerceApp\\EcommerceApp.csproj|solutionrelative:ecommerceapp\\ecommerceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +62,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Reveiw.cs",
-              "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Models\\Reveiw.cs",
-              "RelativeDocumentMoniker": "EcommerceApp\\Models\\Reveiw.cs",
-              "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Models\\Reveiw.cs",
-              "RelativeToolTip": "EcommerceApp\\Models\\Reveiw.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:10:19.242Z",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\appsettings.json",
+              "RelativeToolTip": "EcommerceApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T14:51:56.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "ConfirmationResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\DTOs\\ConfirmationResponseDTO.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\DTOs\\ConfirmationResponseDTO.cs",
+              "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\DTOs\\ConfirmationResponseDTO.cs",
+              "RelativeToolTip": "EcommerceApp\\DTOs\\ConfirmationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:50:51.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\DTOs\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\DTOs\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\DTOs\\ApiResponse.cs",
+              "RelativeToolTip": "EcommerceApp\\DTOs\\ApiResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:09:58.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Program.cs",
+              "RelativeToolTip": "EcommerceApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:33:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EcommerceApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:27:34.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EcommerceApp.csproj",
+              "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\EcommerceApp.csproj",
+              "RelativeDocumentMoniker": "EcommerceApp\\EcommerceApp.csproj",
+              "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\EcommerceApp.csproj",
+              "RelativeToolTip": "EcommerceApp\\EcommerceApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T13:27:01.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "EcommerceApp\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Models\\Review.cs",
+              "RelativeToolTip": "EcommerceApp\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:10:19.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "EcommerceApp\\Models\\Cart.cs",
@@ -64,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Models\\Order.cs",
               "RelativeDocumentMoniker": "EcommerceApp\\Models\\Order.cs",
@@ -77,13 +177,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Models\\Address.cs",
               "RelativeDocumentMoniker": "EcommerceApp\\Models\\Address.cs",
               "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Models\\Address.cs",
               "RelativeToolTip": "EcommerceApp\\Models\\Address.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T11:24:52.297Z",
               "EditorCaption": ""
@@ -96,7 +196,7 @@
               "RelativeDocumentMoniker": "EcommerceApp\\Models\\Customer.cs",
               "ToolTip": "C:\\Users\\AHMI\\Documents\\GitHub\\Ecommerce-App\\EcommerceApp\\Models\\Customer.cs",
               "RelativeToolTip": "EcommerceApp\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T11:23:40.178Z",
               "EditorCaption": ""

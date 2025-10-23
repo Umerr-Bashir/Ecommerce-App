@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <Folder Include="Contoller\" />
-    <Folder Include="DTOs\" />
     <Folder Include="Service\" />
   </ItemGroup>
 
