@@ -23,7 +23,7 @@ namespace EcommerceApp.Models
 
 
         [Required(ErrorMessage = "Date Of Birth Is Required")]
-        public int DateOfBirth { get; set; }
+        public DateTime DateOfBirth { get; set; }
 
 
         [StringLength(12 , MinimumLength = 15 , ErrorMessage = "Phone number must be between 12 and 15 character")]
@@ -43,11 +43,10 @@ namespace EcommerceApp.Models
 
         //Relationships
         public ICollection<Address> Addresses { get; set; }
-        public ICollection<Order> Orders { get; set; }
-        public ICollection<Cart> Carts { get; set; }
-        public ICollection<Review> Reveiws { get; set; }
+        //public ICollection<Order> Orders { get; set; }
+        //public ICollection<Cart> Carts { get; set; }
+        //public ICollection<Review> Reveiws { get; set; }
 
-
-
-        }
+        
+    }
 }
