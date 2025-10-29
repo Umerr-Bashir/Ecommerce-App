@@ -3,6 +3,7 @@ using EcommerceApp.DTOs.CustomerDTO;
 using ECommerceApp.DTOs;
 using ECommerceApp.DTOs.CustomerDTOs;
 using ECommerceApp.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 namespace ECommerceApp.Controllers
 {
@@ -81,6 +82,13 @@ namespace ECommerceApp.Controllers
                 return StatusCode((int)response.StatusCode, response);
             }
             return Ok(response);
+        }
+
+        [HttpGet("auth-endpoint")]
+        [Authorize]
+        public ActionResult AuthCheck()
+        {
+            return Ok();
         }
     }
 }

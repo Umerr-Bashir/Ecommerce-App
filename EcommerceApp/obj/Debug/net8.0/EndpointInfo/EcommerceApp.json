@@ -276,6 +276,18 @@
           }
         }
       }
+    },
+    "/api/Customers/auth-endpoint": {
+      "get": {
+        "tags": [
+          "Customers"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -510,6 +522,10 @@
             "nullable": true
           },
           "Message": {
+            "type": "string",
+            "nullable": true
+          },
+          "Token": {
             "type": "string",
             "nullable": true
           }

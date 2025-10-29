@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "ECommerceApp.Controllers.CustomersController",
+    "Method": "AuthCheck",
+    "RelativePath": "api/Customers/auth-endpoint",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ECommerceApp.Controllers.CustomersController",
     "Method": "ChangePassword",
     "RelativePath": "api/Customers/ChangePassword",
     "HttpMethod": "POST",
