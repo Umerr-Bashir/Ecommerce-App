@@ -1,0 +1,134 @@
+# ========================================================
+# .NET Core Web API - Development .gitignore
+# ========================================================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# ASP.NET Core environment
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+!appsettings.json       # Keep the base config
+
+# User secrets (for local development)
+secrets.json
+
+# Auto-generated files
+Generated_Code/
+GeneratedFiles/
+
+# Publish outputs
+publish/
+out/
+dist/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+# Uncomment if you use NuGet locally:
+# !packages/build/
+# !packages/repositories.config
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Logs and database
+*.log
+*.ldf
+*.mdf
+*.db
+*.sqlite
+*.db-shm
+*.db-wal
+
+# Backup & temp files
+*.bak
+*.tmp
+*.temp
+*.cache
+*.swp
+*~
+~$*
+
+# IIS / Azure publish files
+*.Publish.xml
+*.pubxml
+*.pubxml.user
+Properties/PublishProfiles/
+BundleArtifacts/
+project.lock.json
+project.fragment.lock.json
+
+# Dotnet CLI
+*.dotCover
+artifacts/
+TestResults/
+*.trx
+
+# Coverage reports
+coverage/
+coverage*.json
+coverage*.xml
+coverage*.info
+lcov-report/
+
+# Logs
+*.log
+logs/
+log/
+
+# Certificates
+*.pfx
+*.p12
+*.cer
+*.key
+
+# Docker
+Dockerfile.development
+docker-compose.override.yml
+docker-compose.vs.debug.yml
+docker-compose.vs.release.yml
+.docker/
+**/docker-compose*.yml
+
+# Node.js (if frontend or swagger UI integration)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Others
+Thumbs.db
+Desktop.ini
+.DS_Store
