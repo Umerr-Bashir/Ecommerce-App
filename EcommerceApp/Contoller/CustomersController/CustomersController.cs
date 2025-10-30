@@ -1,5 +1,6 @@
 ﻿using EcommerceApp.DTOs;
 using EcommerceApp.DTOs.CustomerDTO;
+using EcommerceApp.Service.Customer_Service;
 using ECommerceApp.DTOs;
 using ECommerceApp.DTOs.CustomerDTOs;
 using ECommerceApp.Services;
@@ -11,9 +12,9 @@ namespace ECommerceApp.Controllers
     [Route("api/[controller]")]
     public class CustomersController : ControllerBase
     {
-        private readonly CustomerService _customerService;
+        private readonly ICustomerService _customerService;
         // Injecting the services
-        public CustomersController(CustomerService customerService)
+        public CustomersController(ICustomerService customerService)
         {
             _customerService = customerService;
         }

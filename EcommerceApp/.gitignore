@@ -1,0 +1,62 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+*.pidb
+
+# Visual Studio files
+.vs/
+.vscode/
+*.ncrunch*
+*.localhistory/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.tlog
+*.cache
+*.zip
+*.bak
+
+# Publish and package artifacts
+publish/
+*.publish.xml
+*.PublishSettings
+*.pubxml
+*.pubxml.user
+*.pdb
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Rider / JetBrains
+.idea/
+
+# Environment and config
+.env
+appsettings.*.json
+
+# Others
+_TestResults/
+TestResults/
