@@ -1,4 +1,5 @@
 using EcommerceApp.Data;
+using EcommerceApp.Service.Address_Service;
 using EcommerceApp.Service.AuthService;
 using EcommerceApp.Service.Customer_Service;
 using ECommerceApp.Services;
@@ -39,6 +40,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 
 // Register your services
 builder.Services.AddScoped<ICustomerService, CustomerService>();
+builder.Services.AddScoped<IAddressService, AddressService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 
 

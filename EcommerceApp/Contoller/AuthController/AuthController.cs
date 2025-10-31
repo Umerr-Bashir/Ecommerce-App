@@ -43,6 +43,7 @@ namespace EcommerceApp.Contoller.AuthController
             return Ok(response);
         }
 
+
         // Changes the password for an existing customer.
         [HttpPost("ChangePassword")]
         public async Task<ActionResult<ApiResponse<ConfirmationResponseDTO>>> ChangePassword([FromBody] ChangePasswordDTO changePasswordDto)
